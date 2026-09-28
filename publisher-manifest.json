@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "f9b2f82dfb6b6af2ae44246e",
+  "owner": "rrwvhebydh",
+  "repo": "page-9c3bbe4bba23556ab181e676",
+  "title": "大哥云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9c3bbe4bba23556ab181e676",
+      "a": "大哥云",
+      "b": "",
+      "entity": "大哥云",
+      "brand": "大哥云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "34531ead90d9101fd98773bd599d6901f36c0f01161dac5ed822d303e25f916a",
+      "content": {
+        "keyword1": "大哥云",
+        "keyword2": "",
+        "primary_entity": "大哥云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "大哥云提供安全稳定的VPN加速服务，助力全球网络畅通。专业VPN加速器，支持机场订阅与客户端下载。",
+          "AI_DESCRIPTION": "大哥云提供安全稳定的VPN加速服务，助力全球网络畅通。专业VPN加速器，支持机场订阅与客户端下载。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>:root{--warm-white:#f8f4f0;--coral:#ff6b6b;--dark:#333}body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;line-height:1.6;color:var(--dark);background-color:var(--warm-white);margin:0;padding:0}h1,h2,h3{font-weight:700;color:var(--dark)}.hero{padding:80px 20px;text-align:center;background:linear-gradient(180deg,var(--warm-white) 0%,#ffffff 100%)}.hero h1{font-size:3.5rem;margin:0 0 20px;color:#222}.hero p{font-size:1.4rem;margin:0}.blank-space{height:200px;background:white}nav{background:white;padding:1rem 2rem;display:flex;justify-content:space-between;align-items:center;position:sticky;top:0;z-index:10}.logo{font-size:1.8rem;font-weight:bold;color:var(--coral)}nav a{margin-left:2rem;color:var(--dark);text-decoration:none}nav a:hover{color:var(--coral)}main{max-width:1200px;margin:0 auto;padding:20px}section{margin-bottom:60px}h2{font-size:2rem;margin-bottom:20px;border-bottom:3px solid var(--coral);padding-bottom:10px}.plans-grid{display:grid;grid-template-columns:1fr;gap:20px}@media(min-width:768px){.plans-grid{grid-template-columns:repeat(3,1fr)}}details{background:white;padding:20px;margin-bottom:10px;border-radius:8px;box-shadow:0 2px 5px rgba(0,0,0,.05)}summary{font-weight:bold;cursor:pointer;color:var(--coral)}@media(max-width:768px){.hero h1{font-size:2.5rem}h2{font-size:1.8rem}}@media(max-width:768px){.plans-grid{grid-template-columns:1fr}}footer{text-align:center;padding:20px;background:#f0f0f0;font-size:.9rem}</style><nav><div class=\"logo\">大哥云</div><div><a href=\"#plans\">套餐</a><a href=\"#faq\">FAQ</a><a href=\"#clients\">合作伙伴</a></div></nav><main><section class=\"hero\"><h1>大哥云</h1><p>安全稳定的VPN加速器</p><div class=\"blank-space\"></div></section><section><h2>品牌简介</h2><p>大哥云致力于为用户提供优质的VPN加速服务，帮助您轻松突破网络限制，畅享全球优质资源。</p></section><section><h2>使用场景</h2><p>适用于多种网络需求，包括但不限于海外办公、游戏加速、社交媒体访问及内容创作等场景。</p></section><section><h2>操作指南</h2><ol><li>选择适合您需求的套餐</li><li>完成账号注册并完成支付</li><li>连接加速节点</li><li>享受网络加速</li></ol></section><section id=\"plans\">{{PLANS_HTML}}</section><section id=\"faq\"><h2>常见问题</h2><details><summary>大哥云是什么？</summary><p>大哥云是一款专业的VPN加速服务，提供多种套餐供不同用户选择。</p></details><details><summary>支持哪些设备？</summary><p>支持多台设备同时在线。</p></details><details><summary>流量如何管理？</summary><p>根据套餐提供不同流量包。</p></details><details><summary>如何解锁流媒体？</summary><p>旗舰版及以上套餐支持解锁基础流媒体。</p></details><details><summary>售后服务支持如何？</summary><p>提供7x24优先工单支持，团队版有专属客户经理服务。</p></details></section><section id=\"clients\">{{CLIENTS_HTML}}</section></main><footer><p>© 2024 大哥云 所有权利保留</p><p>友情链接等</p></footer>",
+          "hash": "6214894e96873542072adc1a1f9217c83738e4ccd61df9dd15dbc9923d9a17fe",
+          "seo": {
+            "title": "大哥云 - 安全VPN加速器，助力机场订阅与客户端下载",
+            "keywords": "大哥云, VPN, 加速器, 机场, 客户端下载, 网络加速",
+            "description": "大哥云提供安全稳定的VPN加速服务，助力全球网络畅通。专业VPN加速器，支持机场订阅与客户端下载。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fahrdfh.cn",
+    "host": "m.fahrdfh.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "fahrdfh.cn",
+      "url": "https://fahrdfh.cn/",
+      "label": "fnf",
+      "apex": "fahrdfh.cn",
+      "kind": null,
+      "identity": "qkdt9ecd6c/page-d849b8bf99a2b3fd4c5ef49d"
+    },
+    {
+      "host": "qcwle.cn",
+      "url": "https://qcwle.cn/",
+      "label": "大哥云",
+      "apex": "qcwle.cn",
+      "kind": null,
+      "identity": "eqjcuwagpuk/page-73a106389d0927af8ed8376b"
+    },
+    {
+      "host": "qiandad.cn",
+      "url": "https://qiandad.cn/",
+      "label": "大哥云",
+      "apex": "qiandad.cn",
+      "kind": null,
+      "identity": "qqeeuqvba/page-138ceb817b5a6a48fc6c4ba7"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "1fa47acd97f695fc00eb67fe79f5e0d97300d72a5637debc7d04a3fb01bfff0d",
+    "sitemap.xml": "b5caff3fa48efca3fa60a626e1fd4a419ad623fffd520495d30b4d61bcb1cd84",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6c95478c865e89a0cb551c84100b9ca34ce0a0d79f1f986af10151852061a490",
+    "robots.txt": "bb993de15e795d3758d91793323e72fa0cf0a776c79600eb609405991885ad3d",
+    "a54dbadf243abc7a69eb2a8766ec98b2.txt": "b7199bd7db7e6706d0793d4ae967235b0dae270cb33a3dc2084643cabe449595"
+  },
+  "revision": "5f7798c5e883e6ac0bdcd92d81d0a18cbf8e93dc734e48e48113fd99d147fd93"
+}
